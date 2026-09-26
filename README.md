@@ -1,3 +1,3 @@
 # kashaf-college-demo
 This is my first git Repository<br>
-mera naam kashaf haaiiii
+<h1>mera naam kashaf haaiiii</h1>
